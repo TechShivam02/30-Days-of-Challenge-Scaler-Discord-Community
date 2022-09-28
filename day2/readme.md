@@ -1,4 +1,3 @@
-
 ***Problem : 1502. Can Make Arithmetic Progression From Sequence ***
 
 // Problem Link :https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
@@ -37,4 +36,6 @@ public:
 
 
 ***Here Below , ScreenShot of my Submission***
+
+![day2](https://user-images.githubusercontent.com/109462762/192814997-50ba40fa-1cb8-4308-bb7e-44da1eec18ff.jpg)
 
