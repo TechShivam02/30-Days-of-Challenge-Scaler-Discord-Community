@@ -1,3 +1,10 @@
+
+***Problem : 1828. Queries on Number of Points Inside a Circle***
+
+// Problem Link : https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
+
+```
+
 #include<cmath>
 class Solution {
 public:
@@ -38,3 +45,10 @@ public:
         return vec;
     }
 };
+```
+
+
+***Here Below , ScreenShot of my Submission***
+
+
+![day3](https://user-images.githubusercontent.com/109462762/192811981-e54711cc-3fda-4197-b643-ed5179740cf7.jpg)
