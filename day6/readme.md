@@ -70,3 +70,5 @@ int findMy_Ans(int low , int high , vector<int> &arr  , int target){
 
 ***Here Below , ScreenShot of my Submission***
 
+
+![day6](https://user-images.githubusercontent.com/109462762/193415805-d8cc498d-edad-428d-a9c2-0652247e0df6.jpg)
