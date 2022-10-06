@@ -40,3 +40,6 @@ long long power(int N , int R)
 
 
 ***Here Below , ScreenShot of my Submission***
+
+![day11](https://user-images.githubusercontent.com/109462762/194381925-741ced13-1e21-492f-875f-28ad8593bef6.jpg)
+
