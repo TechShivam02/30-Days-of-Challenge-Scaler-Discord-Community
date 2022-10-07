@@ -40,3 +40,5 @@ long long int killinSpree(long long int n)
 
 
 ***Here Below , ScreenShot of my Submission***
+
+![day12](https://user-images.githubusercontent.com/109462762/194562604-81ff2dba-5712-4a40-9ce4-b02e8a771c3a.jpg)
