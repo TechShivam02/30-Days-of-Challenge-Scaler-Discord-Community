@@ -3,6 +3,7 @@
 
 // Problem Link : https://practice.geeksforgeeks.org/problems/killing-spree3020/1?page=1&difficulty[]=1&category[]=Divide%20and%20Conquer&sortBy=accuracy
 
+
 ```
 long long int killinSpree(long long int n)
     
