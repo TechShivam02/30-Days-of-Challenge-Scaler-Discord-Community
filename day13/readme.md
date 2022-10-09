@@ -4,6 +4,7 @@
 // https://practice.geeksforgeeks.org/problems/largest-square-in-a-binary-matrix-with-at-most-k-1s-for-multiple-queries/1?page=1&difficulty[]=1&category[]=Divide%20and%20Conquer&sortBy=difficulty
 
 
+
 ```
 
 vector<int> largestSquare(vector<vector<int>> matt, int r, int c, int K, int Q, int q_i[], int q_j[]) {
