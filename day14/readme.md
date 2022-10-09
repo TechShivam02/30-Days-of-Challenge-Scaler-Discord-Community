@@ -52,3 +52,6 @@ int main() {
 
 
 ***Here Below , ScreenShot of my Submission***
+
+![day14](https://user-images.githubusercontent.com/109462762/194757418-29e1b597-57d1-4df0-8975-e1f6f69c68e8.jpg)
+
