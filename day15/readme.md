@@ -87,4 +87,6 @@ int minimumNumber(int n, string str) {
 
 
 ***Here Below , ScreenShot of my Submission***
+![day15](https://user-images.githubusercontent.com/109462762/195154920-cde5c80e-c6ae-4190-9998-93c39940ca65.jpg)
+
 
