@@ -61,3 +61,6 @@ int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& sco
 
 
 ***Here Below , ScreenShot of my Submission***
+
+![day17](https://user-images.githubusercontent.com/109462762/195438312-21b4de15-6a3c-42f9-aaac-884d8de056c1.jpg)
+
