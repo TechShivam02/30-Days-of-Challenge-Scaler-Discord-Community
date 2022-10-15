@@ -82,4 +82,6 @@ ListNode* mergeNodes(ListNode* head) {
 
 
 ***Here Below , ScreenShot of my Submission***
+![day20](https://user-images.githubusercontent.com/109462762/195982490-4a1dcd03-2e8b-4b1d-ad50-b1ba24adac27.jpg)
+
 
